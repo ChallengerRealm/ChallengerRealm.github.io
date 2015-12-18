@@ -8,12 +8,10 @@ document.write(
       '<ul class="right hide-on-med-and-down">'+
         '<li><a href="game.html">Jeu</a></li>'+
         '<li><a href="team.html">Équipe</a></li>'+
-        '<li><a href="https://github.com/ChallengerRealm/ChallengerRealmRelease/releases/download/V1.0/ChallengerRealmInstaller.exe"><i class="material-icons left">play_for_work</i>Téléchargement du Jeu (Direct X64)</a></li>'+
       '</ul>'+
       '<ul class="side-nav" id="mobile-demo">'+
         '<li><a href="game.html">Jeu</a></li>'+
         '<li><a href="team.html">Équipe</a></li>'+
-        '<li><a href="https://github.com/ChallengerRealm/ChallengerRealmRelease/releases/download/V1.0/ChallengerRealmInstaller.exe"><i class="material-icons left">play_for_work</i> </a>Téléchargement du Jeu (Direct X64)</li>'+
       '</ul>'+
     '</div>'+
   '</nav>'
